@@ -1,6 +1,6 @@
 # Project Setup and API Usage
 
-## Update the `.env` file with your correct user and group ID if necessary, then:
+Update the `.env` file with your correct user and group ID if necessary, then:
 ```
 docker compose build
 docker compose up -d
