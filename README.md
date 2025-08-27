@@ -9,11 +9,11 @@ docker compose exec backend php artisan migrate
 
 ```
 
-craete backend/.env and add API cresdentials:
+Create backend/.env and add API credentials:
 ```
 NUTRITION_API_BASE=https://interview.workcentrix.de
 NUTRITION_API_USER=ao
-NUTRITION_API_PASS=ppfIEPFDzB
+NUTRITION_API_PASS=xxxxxxx
 ```
 
 ## Add new recipe (missing ingredients will be added to API automatically):
